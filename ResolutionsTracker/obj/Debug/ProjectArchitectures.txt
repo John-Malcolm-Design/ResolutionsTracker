@@ -1,0 +1,1 @@
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\ResolutionsTracker.csproj;neutral

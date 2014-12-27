@@ -1,0 +1,74 @@
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\App.g.i.cs
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\App.g.cs
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\AddResolution.g.i.cs
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\AddResolution.g.cs
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\MainPage.g.i.cs
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\MainPage.g.cs
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\XamlTypeInfo.g.cs
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\App.xaml
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\App.xbf
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\XamlSaveStateFile.xml
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\AddResolution.xaml
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\MainPage.xaml
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\AddResolution.xbf
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\MainPage.xbf
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\App.xbf
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\AddResolution.xbf
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\MainPage.xbf
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\ResolutionsTracker.xr.xml
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\ResolutionsTracker.exe
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\ResolutionsTracker.pdb
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\resources.pri
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\AppxManifest.xml
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\ResolutionsTracker.build.appxrecipe
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\ResolutionsTracker.exe
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\ResolutionsTracker.pdb
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\priconfig.xml
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\priconfig.xml.intermediate
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\layout.resfiles
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\layout.resfiles.intermediate
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\resources.resfiles
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\resources.resfiles.intermediate
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\pri.resfiles
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\pri.resfiles.intermediate
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\qualifiers.txt
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\qualifiers.txt.intermediate
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\johnmalcolm\documents\visual studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\ProjectArchitectures.txt
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\App.xbf
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\AddResolution.xbf
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\MainPage.xbf
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\ResolutionsTracker.xr.xml
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\ResolutionsTracker.exe
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\ResolutionsTracker.pdb
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\resources.pri
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\AppxManifest.xml
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\ResolutionsTracker.build.appxrecipe
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\App.g.i.cs
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\App.g.cs
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\AddResolution.g.i.cs
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\AddResolution.g.cs
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\MainPage.g.i.cs
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\MainPage.g.cs
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\XamlTypeInfo.g.cs
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\App.xaml
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\AddResolution.xaml
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\App.xbf
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\AddResolution.xbf
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\XamlSaveStateFile.xml
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\MainPage.xaml
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\MainPage.xbf
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\ResolutionsTracker.exe
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\ResolutionsTracker.pdb
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\priconfig.xml
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\priconfig.xml.intermediate
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\layout.resfiles
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\layout.resfiles.intermediate
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\resources.resfiles
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\resources.resfiles.intermediate
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\pri.resfiles
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\pri.resfiles.intermediate
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\qualifiers.txt
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\qualifiers.txt.intermediate
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\obj\Debug\ProjectArchitectures.txt
