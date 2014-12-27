@@ -22,12 +22,40 @@
     <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\background_test.png">
       <PackagePath>Assets\background_test.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\sky.png">
       <PackagePath>Assets\sky.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
@@ -45,16 +73,50 @@
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\Wide310x150Logo.scale-240.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\Assets\Wide310x150Logo.scale-240.jpg">
+      <PackagePath>Assets\Wide310x150Logo.scale-240.jpg</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="Z:\Documents\Windows App Dev\Visual Studio 2013\Projects\ResolutionsTracker\ResolutionsTracker\bin\Debug\App.xbf">
